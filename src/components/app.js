@@ -3,5 +3,5 @@ angular.module('newmail')
 })
 .component('app', {
   controller: 'appCtrl',
-  templateUrl: '/src/templates/app.html'
+  template:`<div>Hello Betty Chow</div>`
 })
