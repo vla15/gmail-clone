@@ -1,4 +1,4 @@
-angular.module('newemail')
+angular.module('newmail')
 .controller('inboxCtrl', function() {
 
 })
