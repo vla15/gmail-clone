@@ -1,1 +1,1 @@
-console.log(angular.module('newmail', []));
+console.log(angular.module('newmail', ['ngRoute']));
