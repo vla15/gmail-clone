@@ -1,1 +1,1 @@
-angular.module('gmail', []);
+console.log(angular.module('newmail', []));
